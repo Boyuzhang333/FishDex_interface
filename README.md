@@ -120,7 +120,7 @@ http://localhost:3000
 }
 ```
 
-### 5) Get Catches
+### 5) Get Catches 
 
 `GET /catches`
 - Header: `Authorization: Bearer <token>`
